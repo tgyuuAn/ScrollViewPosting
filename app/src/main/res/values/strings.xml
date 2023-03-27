@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScrollVeiw</string>
+
+    <string name="event_typo">오늘은\n어떤 이벤트들이\n있을까?</string>
+    <string name="event_sort_deadline">마감순</string>
+    <string name="event_sort_newest">최신순</string>
+    <string name="event_sort_button">확인</string>
+    <string name="latest">최신</string>
+    <string name="recommend">추천</string>
+    <string name="event_notice">이벤트 유의사항</string>
+    <string name="use_coupon">쿠폰 사용하기</string>
+</resources>
